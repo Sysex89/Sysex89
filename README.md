@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Sysex89)](https://git.io/streak-stats)
 <!--
 **Sysex89/Sysex89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
